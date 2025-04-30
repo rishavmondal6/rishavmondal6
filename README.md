@@ -8,8 +8,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer**
 - **Open Source Contributions** 🌍
 
 ## 🌱 I’m currently learning ...
-- **Deepening my skills in Full Stack Development** using JavaScript, HTML, CSS, and Firebase
+- **Deepening my skills in Full Stack Development** using HTML, CSS, and Javascript
 - **Coding skills** on Python
+- **Database** on MySQL
 - **Optimizing Algorithms** and **Data Structures** 🧑‍💻
 
 ## 💞️ I’m looking to collaborate on ...
@@ -18,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer**
 - **Open Source contributions** 🌍
 
 ## 📫 How to reach me ...
-- Email: **rishav.mondal@example.com** 📧
+- Email: **mondalrishav80@gmail.com** 📧
 - LinkedIn: [Rishav Mondal](https://www.linkedin.com/in/rishav-mondal/)
-- Twitter: [@rishav_mondal](https://twitter.com/rishav_mondal)
+- Facebook: [Rishav Mondal](https://www.facebook.com/rishav.mondal.794?rdid=gfLjkcnB8Y5WlyI1&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15WSQG61bC%2F#)
 
 ## 😄 Pronouns: He/Him
 
@@ -29,16 +30,18 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer**
 ## 📁 Projects Highlighted
 
 - 🚌 **Ebus Management Based on Current Location** – A smart system to manage and track electronic buses using real-time location data.
+ 
 - ❌⭕ **Tic-Tac-Toe Game** – A fun and interactive game built to showcase frontend logic and JavaScript basics.
+ 
 - 🌐 **Personal Tech Portfolio Website** – The very site you're viewing! Built to reflect my skills and journey.
 
 ## 💡 Technologies I Love:
-
-- **JavaScript** ⚡  
+  
 - **HTML5** 💻  
 - **CSS3** 🚀  
-- **MySQL**, **Firebase** 📊  
-- **Python** 🐍  
+- **MySQL**  
+- **Python** 🐍
+- **JavaScript** ⚡ 
 
 
 ## 📈 Stats:
