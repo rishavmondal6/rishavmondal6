@@ -26,16 +26,11 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer**
 
 ## ⚡ Fun fact: I love exploring new technologies, especially when they intersect with real-world problems. 🔍🧩
 
-## 🚀 My Projects:
+## 📁 Projects Highlighted
 
-### 💻 **Expense Tracker:**
-A simple yet effective **expense management** tool built with **JavaScript**, **HTML5**, **CSS**, and **Firebase**. It helps users track their spending and offers real-time updates.
-
-### 🚌 **Ebus Management System:**
-A comprehensive **bus fleet management** system developed using full-stack technologies. It allows real-time tracking and schedule optimization.
-
-### 🏥 **Clinic Management System:**
-A **clinic management** application designed to handle patient records, appointment scheduling, and real-time updates to help healthcare professionals manage their daily operations more effectively.
+- 🚌 **Ebus Management Based on Current Location** – A smart system to manage and track electronic buses using real-time location data.
+- ❌⭕ **Tic-Tac-Toe Game** – A fun and interactive game built to showcase frontend logic and JavaScript basics.
+- 🌐 **Personal Tech Portfolio Website** – The very site you're viewing! Built to reflect my skills and journey.
 
 ## 💡 Technologies I Love:
 
